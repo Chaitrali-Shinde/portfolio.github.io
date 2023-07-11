@@ -1,0 +1,36 @@
+.resume-page {
+    width: 80%;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    text-align: left;
+  }
+  
+  .resume-header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .resume-section {
+    margin-bottom: 30px;
+  }
+  
+  .resume-subheader {
+    margin-bottom: 10px;
+  }
+  
+  .resume-text {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  
+  .resume-education,
+  .resume-work-experience {
+    margin-bottom: 15px;
+  }
+  
+  .resume-school,
+  .resume-company {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
